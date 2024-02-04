@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "897845730176",
+    "project_id": "routme-720da",
+    "storage_bucket": "routme-720da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897845730176:android:5c3ff6eafcbe9af3863f65",
+        "android_client_info": {
+          "package_name": "com.semkef.routme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCySMePrzljcGZLc8zxFyEwvxeHpYlh_oM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897845730176:android:baeb2f37aae51979863f65",
+        "android_client_info": {
+          "package_name": "com.semkef.routmeadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCySMePrzljcGZLc8zxFyEwvxeHpYlh_oM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
