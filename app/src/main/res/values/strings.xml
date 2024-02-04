@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RoutMe Admin</string>
+    <string name="profile_image_description">image\n</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="welcome">Welcome</string>
+    <string name="please_login_with_your_information">Please login with your information</string>
+    <string name="admin_id">Admin id</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="show_password">Show password</string>
+    <string name="hello">Hello</string>
+    <string name="admin">Admin</string>
+    <string name="search">Search  for...</string>
+    <string name="complaints">Complaints</string>
+    <string name="manage_driver">Manage drivers</string>
+    <string name="manage_price">Manage price</string>
+    <string name="manage_users">Manage users</string>
+    <string name="track_driver">Track driver</string>
+    <string name="send_notification">Send notice</string>
+    <string name="user_history">User history</string>
+    <string name="driver_history">Driver history</string>
+    <string name="driver_request">Driver request</string>
+    <string name="all_complaints">All Complaint</string>
+    <string name="terms_and_conditions">Terms and conditions</string>
+    <string name="more">More</string>
+    <string name="user_name">User Name</string>
+    <string name="search_user">Search user</string>
+</resources>
