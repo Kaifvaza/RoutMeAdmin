@@ -60,4 +60,5 @@ class ManageUsersActivity : AppCompatActivity() {
         val adapter = UserListAdapter(this, R.layout.item_user, userList)
         binding.userListView.adapter = adapter
     }
+
 }
